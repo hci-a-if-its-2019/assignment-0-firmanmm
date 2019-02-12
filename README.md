@@ -7,11 +7,11 @@ In this assignment i'm going to analyze certain subject for any possible design 
 3. [Blender Beta 2.8's Desktop App](https://www.blender.org/2-8/)
 
 ### ITS's Industrial Product Design Website
-Type  : Website
-Link  : [http://despro.its.ac.id/](http://despro.its.ac.id/)
-Proof : [TBA](https://youtube.com)
-Flaw  : Image that looks like a button is not clickable (**Usability** and **Functional**)
-Tester : **Affan Ghaffar** 
+- Type  : Website
+- Link  : [http://despro.its.ac.id/](http://despro.its.ac.id/)
+- Proof : [TBA](https://youtube.com)
+- Flaw  : Image that looks like a button is not clickable (**Usability** and **Functional**)
+- Tester : **Affan Ghaffar** 
 
 When you open this website you will be greeted by a fancy modal box and all of its animations that pop out out of nowhere. My friend's first reaction was trying to click "Pelajari Selengkapnya" which looks like a button since it has box shadow under it and an icon however he didn't know that it's just a picture that provide **no function at all**. That box shadow is actually following [Material Design's Guidelines](https://material.io/design/components/buttons.html) for buttons but didn't act like a button. 
 
@@ -21,11 +21,11 @@ When you open this website you will be greeted by a fancy modal box and all of i
 My solution for this problem was to literally make that button on top of that image or completely remove that from the main image. 
 
 ### ITS's Elearning Website (Share ITS)
-Type  : Website
-Link  : [http://share.its.ac.id/](http://share.its.ac.id/)
-Proof : [TBA](https://youtube.com)
-Flaw  : Sometimes down, Risky to use, Not working as expected (**Reliability**, **Risk** and **Functional** )
-Tester : **Affan Ghaffar** and **Muhajir**
+- Type  : Website
+- Link  : [http://share.its.ac.id/](http://share.its.ac.id/)
+- Proof : [TBA](https://youtube.com)
+- Flaw  : Sometimes down, Risky to use, Not working as expected (**Reliability**, **Risk** and **Functional** )
+- Tester : **Affan Ghaffar** and **Muhajir**
 
 First, this website is categorized as **Not Secure** but this website asks for **sensitive information** which is weird. I always got warning from my Antivirus everytime i enter my *not so secure* password in this site which is annoying but helpful. 
 
@@ -45,11 +45,11 @@ As you notice from sidebar (right) there are only 3 courses available while in t
 This website is very important for some students in ITS and must be secured at all cost. If cost is the main problem then just use free SSL like [Let's Encrypt](https://letsencrypt.org/). That downtime must be resolved since other people may use it. All courses must be consistent between sidebar and course menu. Making the Navigation URL consistent should fix this problem.
 
 ### Blender Beta 2.8
-Type  : Desktop App
-Link  : [https://www.blender.org/2-8/](https://www.blender.org/2-8/)
-Proof : [TBA](https://youtube.com)
-Flaw  : Design is changed completely yet still hard to understand (**Customer Experience**)
-Tester : **Bolt**
+- Type  : Desktop App
+- Link  : [https://www.blender.org/2-8/](https://www.blender.org/2-8/)
+- Proof : [TBA](https://youtube.com)
+- Flaw  : Design is changed completely yet still hard to understand (**Customer Experience**)
+- Tester : **Bolt**
 
 Blender is known to be **hard to use** already, introducing a new one still didn't solve this problem. For people who already get used to how blender feels might have to **re-learn** many parts of blender that will be changed in 2.8. I ask my friend who already know how to use blender to render their scene using Blender's Cycle Render and surprisingly **he didn't even know how to render it**. The button usually sits in the render tab in right side of the screen (left image) but **now gone**. There are many shortcuts that has been changed or removed in this new version of blender. 
 
