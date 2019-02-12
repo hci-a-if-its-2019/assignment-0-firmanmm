@@ -33,11 +33,11 @@ First, this website is categorized as **Not Secure** but this website asks for *
 
 Sometimes the server is down which i don't know why its down in the first place. This **downtime is unpredictable** since its happen randomly like when i'm trying to visit this site to take some screenshot from it. 
 
-![Subject-2's Downtime](Subject-2/Down.jpg)
+![Subject-2's Downtime](Subject-2/Down.JPG)
 
 After sometimes using this website, i noticed that the courses available from sidebar and main courses selection is not the same. For example i ask my friend to find "Teknologi Bergerak" course but can't find it in the course menu. I noticed that when you use sidebar for navigation it will have different URL from using course menu for navigation.
 
-![Subject-2's Inconsistency](Subject-2/Inconsistent.jpg)
+![Subject-2's Inconsistency](Subject-2/Inconsistent.JPG)
 
 As you notice from sidebar (right) there are only 3 courses available while in the course menu (left) you can clearly see that there is atleast 6 courses available. I noticed that when you use sidebar for navigation it will **have different URL** from using course menu for navigation.
 
