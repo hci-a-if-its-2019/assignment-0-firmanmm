@@ -17,6 +17,10 @@ In this assignment i'm going to analyze certain subject for any possible design 
 - Flaw  : Image that looks like a button is not clickable (**Usability** and **Functional**)
 - Tester : **Affan Ghaffar** 
 
+#### Description
+Industrial Product Design is one of the departements in ITS that handle design. It has a website that located at [http://despro.its.ac.id/](http://despro.its.ac.id/). Eventhough they understand product design in the first place, their website tell something different.
+
+#### Problems
 When you open this website you will be greeted by a fancy modal box and all of its animations that pop out out of nowhere. My friend's first reaction was trying to click "Pelajari Selengkapnya" which looks like a button since it has box shadow under it and an icon however he didn't know that it's just a picture that provide **no function at all**. That box shadow is actually following [Material Design's Guidelines](https://material.io/design/components/buttons.html) for buttons but didn't act like a button. 
 
 ![Subject-1's Flaw](Subject-1/Banner.jpg)
@@ -31,6 +35,10 @@ My solution for this problem was to literally make that button on top of that im
 - Flaw  : Sometimes down, Risky to use, Not working as expected (**Reliability**, **Risk** and **Functional** )
 - Tester : **Affan Ghaffar** and **Muhajir**
 
+#### Description
+Share.its.ac.id is one of the e-learning website that ITS provide to their students. Teachers can create courses that students can enroll in this site. This website is also open for public use that other people can use. Despite of being used by public, this website has some problem in it.
+
+#### Problems
 First, this website is categorized as **Not Secure** but this website asks for **sensitive information** which is weird. I always got warning from my Antivirus everytime i enter my *not so secure* password in this site which is annoying but helpful. 
 
 ![Subject-2's Not Secure](Subject-2/NotSecure.jpg)
@@ -55,6 +63,10 @@ This website is very important for some students in ITS and must be secured at a
 - Flaw  : Design is changed completely yet still hard to understand (**Customer Experience**)
 - Tester : **Bolt**
 
+#### Description
+Blender is one of the CAD software to create 3D Models. Users can learn and create 3D Models easily and export it for other CAD software to use easily using this software. This software is an open source software that everyone can use and modify it for free. It's been a while since the release of Blender 2.79 and this release add even more problems for Blender Team to tackle.
+
+#### Problems
 Blender is known to be **hard to use** already, introducing a new one still didn't solve this problem. For people who already get used to how blender feels might have to **re-learn** many parts of blender that will be changed in 2.8. I ask my friend who already know how to use blender to render their scene using Blender's Cycle Render and surprisingly **he didn't even know how to render it**. The button usually sits in the render tab in right side of the screen (left image) but **now gone**. There are many shortcuts that has been changed or removed in this new version of blender. 
 
 ![Subject-3's Screenshot](Subject-3/ScreenShot.jpg)
