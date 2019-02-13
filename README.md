@@ -1,6 +1,10 @@
 # Assignment - 0
 In this assignment i'm going to analyze certain subject for any possible design flaw that i can found and provide some recommendation for it.
 
+- Firman Maulana
+- 05111640000059
+- Human - Computer Interaction A
+
 ## Subjects
 1. [ITS's Industrial Product Design Website](http://despro.its.ac.id/)
 2. [ITS's Elearning Website (Share ITS)](http://share.its.ac.id/)
