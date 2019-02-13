@@ -9,7 +9,7 @@ In this assignment i'm going to analyze certain subject for any possible design 
 ### ITS's Industrial Product Design Website
 - Type  : Website
 - Link  : [http://despro.its.ac.id/](http://despro.its.ac.id/)
-- Proof : [TBA](https://youtube.com)
+- Proof : [https://youtu.be/Y6opzUd7TU8](https://youtu.be/Y6opzUd7TU8)
 - Flaw  : Image that looks like a button is not clickable (**Usability** and **Functional**)
 - Tester : **Affan Ghaffar** 
 
@@ -23,7 +23,7 @@ My solution for this problem was to literally make that button on top of that im
 ### ITS's Elearning Website (Share ITS)
 - Type  : Website
 - Link  : [http://share.its.ac.id/](http://share.its.ac.id/)
-- Proof : [TBA](https://youtube.com)
+- Proof : [https://youtu.be/zN4x3VtHmRU](https://youtu.be/zN4x3VtHmRU)
 - Flaw  : Sometimes down, Risky to use, Not working as expected (**Reliability**, **Risk** and **Functional** )
 - Tester : **Affan Ghaffar** and **Muhajir**
 
@@ -47,7 +47,7 @@ This website is very important for some students in ITS and must be secured at a
 ### Blender Beta 2.8
 - Type  : Desktop App
 - Link  : [https://www.blender.org/2-8/](https://www.blender.org/2-8/)
-- Proof : [TBA](https://youtube.com)
+- Proof : [https://youtu.be/-lR9iW4y0_Q](https://youtu.be/-lR9iW4y0_Q)
 - Flaw  : Design is changed completely yet still hard to understand (**Customer Experience**)
 - Tester : **Bolt**
 
